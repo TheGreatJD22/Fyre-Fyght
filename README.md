@@ -1,2 +1,2 @@
 # Fyre-Fyght
-a simple text based fighting game.
+a text based fighting game.
